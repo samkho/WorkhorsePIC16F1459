@@ -1,0 +1,5 @@
+BUGS:
+- Silkscreen values for Crystal capacitors are dependent on particular crystal model.  Compute your own values.
+
+TODO:
+- add i2c pullup resistoir
